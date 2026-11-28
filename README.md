@@ -1,14 +1,14 @@
-C Programming
+# C Programming
 
 Welcome to my C Programming repository!
 
-I am a BS Artificial Intelligence student learning programming and developing my problem-solving skills.
+I am a BS Artificial Intelligence student learning a strong foundation in programming and beginner-level projects.
 
-About This Repository
+## About This Repository
 
-This repository contains my C programming practice, university lab tasks, and learning exercises.
+This repository contains my C programming practice and beginner-level projects.
 
-Topics
+## Topics
 
 - Basic Syntax
 - Variables and Data Types
@@ -16,10 +16,14 @@ Topics
 - Conditional Statements
 - Loops
 - Functions
+- Arrays
 
-Goal
+## Projects
+Small projects created to improve my programming and logical thinking skills.
 
-To strengthen my programming fundamentals and build a strong foundation for Artificial Intelligence.
+## Goal
+
+To strengthen my programming skills and prepare for learning Artificial Intelligence.
 
 ---
 
